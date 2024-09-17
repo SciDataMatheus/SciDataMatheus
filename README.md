@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SciDataMatheus
 - 👀 I’m interested in entering the data science market
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Machine Learning
 - 📫 How to reach me [Linkedin](linkedin.com/in/matheus-santos-324980125)
 - ⚡ Act with passion or don't act at all.
 
